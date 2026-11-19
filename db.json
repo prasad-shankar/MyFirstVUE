@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Shankar",
+      "department": "UI Development",
+      "salary": 90000
+    },
+    {
+      "id": 2,
+      "name": "Preety",
+      "department": "UI Development",
+      "salary": 100000
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "department": "UI Development",
+      "salary": 12000
+    },
+    {
+      "id": 4,
+      "name": "Rakesh",
+      "department": "QA",
+      "salary": 55000
+    }
+  ]
+}
